@@ -1,0 +1,12 @@
+# CoreSight - Terminal Log Analytics Engine
+# No external dependencies required - uses only Python standard library
+
+# Python 3.7+ required
+# Standard library modules used:
+# - curses (terminal UI)
+# - sqlite3 (database)
+# - re (regex parsing)
+# - datetime (time handling)
+# - json (if needed for future JSON log support)
+# - os, sys (system utilities)
+

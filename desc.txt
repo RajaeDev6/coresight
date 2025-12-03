@@ -1,0 +1,2 @@
+CoreSight is a terminal-based log analytics engine that ingests, parses, indexes, and searches logs using a simplified SPL-like query syntax. It supports syslog, web access logs, and authentication logs, provides real-time search capabilities, statistical analysis, and terminal-based visualizations through a custom TUI library.
+

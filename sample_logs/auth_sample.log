@@ -1,0 +1,16 @@
+Jan 12 10:00:00 server1 sshd[1234]: Failed password for user1 from 192.168.1.10 port 22 ssh2
+Jan 12 10:00:15 server1 sshd[1235]: Accepted password for user2 from 192.168.1.20 port 22 ssh2
+Jan 12 10:00:30 server1 sshd[1236]: Failed password for user1 from 192.168.1.10 port 22 ssh2
+Jan 12 10:01:00 server1 sshd[1237]: Accepted publickey for admin from 192.168.1.30 port 22 ssh2
+Jan 12 10:01:15 server1 sshd[1238]: Failed password for user3 from 192.168.1.40 port 22 ssh2
+Jan 12 10:01:30 server1 sshd[1239]: Failed password for user3 from 192.168.1.40 port 22 ssh2
+Jan 12 10:02:00 server1 sshd[1240]: Accepted password for user4 from 192.168.1.50 port 22 ssh2
+Jan 12 10:02:15 server1 sshd[1241]: Failed password for user1 from 192.168.1.10 port 22 ssh2
+Jan 12 10:02:30 server1 sshd[1242]: Accepted publickey for root from 10.0.0.5 port 22 ssh2
+Jan 12 10:03:00 server1 sshd[1243]: Failed password for user5 from 192.168.1.60 port 22 ssh2
+Jan 12 10:03:15 server1 sudo: user2 : TTY=pts/0 ; PWD=/home/user2 ; USER=root ; COMMAND=/usr/bin/apt update
+Jan 12 10:03:30 server1 sshd[1244]: Accepted password for user6 from 192.168.1.70 port 22 ssh2
+Jan 12 10:04:00 server1 sshd[1245]: Failed password for user1 from 192.168.1.10 port 22 ssh2
+Jan 12 10:04:15 server1 sshd[1246]: Accepted password for user7 from 192.168.1.80 port 22 ssh2
+Jan 12 10:04:30 server1 sshd[1247]: Failed password for user3 from 192.168.1.40 port 22 ssh2
+
