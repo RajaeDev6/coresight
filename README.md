@@ -1,5 +1,7 @@
 # CoreSight
 
+***note: rewrite the TUI as an independent library***
+
 Terminal-based log analytics engine for ingesting, parsing, indexing, and searching logs with SPL-like query syntax.
 
 ## Overview
